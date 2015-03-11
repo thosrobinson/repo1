@@ -1,3 +1,3 @@
 # repo1
-First repository 
+First repository. 
 This here be my very first repo, bar none.  
